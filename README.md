@@ -1,7 +1,7 @@
 # Haskell
 
 Aprender um paradigma novo, um novo jeito de pensar programação. Melhorar meus
-conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.)
+conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.); aprender mais sobre programação paralela; entender conceitos de linguagens de programação (tipagem, lazy evaluation, etc.).
 
 ## Referência
 
