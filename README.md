@@ -21,5 +21,12 @@ conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.)
 - [Introduction to Functional Programming - EDX](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VDWTHFRdUsp)
 
 ## Práticar
+
+### Sites
 - [Hacker Rank](http://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
+
+### Diretórios
+  - [newbie](https://github.com/GuidoBR/learning-haskell/tree/master/newbie): Códigos simples e implementações matemáticas.
+  - [hacker-rank](https://github.com/GuidoBR/learning-haskell/tree/master/hacker-rank): Domínio Functional Programming do [Hacker Rank](http://www.hackerrank.com/)
+  - [euler](https://github.com/GuidoBR/learning-haskell/tree/master/euler): Problemas matemáticos do [Project Euler](https://projecteuler.net/)
