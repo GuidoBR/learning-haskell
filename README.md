@@ -14,6 +14,9 @@ conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.); a
 ### Guia de estudo:
 - [Stack Overflow - Getting Started with Haskell](http://stackoverflow.com/questions/1012573/getting-started-with-haskell)
 
+### Awesome
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+
 ### Livros:
 - [Haskell road to logic math and programming](http://www.amazon.com/Haskell-Programming-Second-Edition-Computing/dp/0954300696)
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
