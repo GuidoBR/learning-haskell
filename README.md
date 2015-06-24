@@ -5,9 +5,9 @@
 Aprender um paradigma novo, um novo jeito de pensar programação. Melhorar meus
 conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.); aprender mais sobre programação paralela; entender conceitos de linguagens de programação (tipagem, lazy evaluation, etc.).
 
-> It gives you a new toolset with which to solve programming problems, often yielding very clean and elegant solutions to otherwise complex problems. > [Why Study Functional Programming?](https://acm.wustl.edu/functional/whyfp.php)
+> It gives you a new toolset with which to solve programming problems, often yielding very clean and elegant solutions to otherwise complex problems. - [Why Study Functional Programming?](https://acm.wustl.edu/functional/whyfp.php)
 
->  It is my belief that functional languages, almost by definition, are closer to the top of the power spectrum than imperative ones. So languages can actually limit a programmers frame of thought. > [Why Haskell Matters?](https://wiki.haskell.org/Why_Haskell_matters)
+>  It is my belief that functional languages, almost by definition, are closer to the top of the power spectrum than imperative ones. So languages can actually limit a programmers frame of thought. - [Why Haskell Matters?](https://wiki.haskell.org/Why_Haskell_matters)
 
 ## Referência
 
