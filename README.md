@@ -13,6 +13,7 @@ conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.); a
 
 ### Guia de estudo:
 - [Stack Overflow - Getting Started with Haskell](http://stackoverflow.com/questions/1012573/getting-started-with-haskell)
+- [Functional Programming](https://github.com/caiorss/Functional-Programming)
 
 ### Awesome
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
