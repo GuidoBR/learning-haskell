@@ -20,7 +20,7 @@ conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.); a
 
 ### Livros:
 - [Haskell road to logic math and programming](http://www.amazon.com/Haskell-Programming-Second-Edition-Computing/dp/0954300696)
-- [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
+- [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - [pt-BR](http://haskell.tailorfontela.com.br/)
 
 ### Tutoriais:
 - [Haskell the Hard Way](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
