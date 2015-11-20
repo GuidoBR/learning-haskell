@@ -40,3 +40,10 @@ conhecimentos sobre matemática (álgebra, provas, teoria dos números, etc.); a
   - [newbie](https://github.com/GuidoBR/learning-haskell/tree/master/newbie): Códigos simples e implementações matemáticas.
   - [hacker-rank](https://github.com/GuidoBR/learning-haskell/tree/master/hacker-rank): Domínio Functional Programming do [Hacker Rank](http://www.hackerrank.com/)
   - [euler](https://github.com/GuidoBR/learning-haskell/tree/master/euler): Problemas matemáticos do [Project Euler](https://projecteuler.net/)
+  - [beginning-haskell](https://github.com/GuidoBR/learning-haskell/tree/master/beginning-haskell): Exercícios e exemplos do livro "Beginning Haskell"
+  - [haskell-road-to-math-logic-and-programming](https://github.com/GuidoBR/learning-haskell/tree/master/haskell-road-to-math-logic-and-programming): Exercícios e exemplos do livro "Haskell road to math, logic and programming"
+  - [haskell-schoolf-of-music](https://github.com/GuidoBR/learning-haskell/tree/master/haskell-school-of-music): Exercícios e exemplos do livro "Haskell school of music"
+  - [learning-haskell-data-analysis](https://github.com/GuidoBR/learning-haskell/tree/master/learning-haskell-data-analysis): Exercícios e exemplos do livro "Learning Haskell Data Analysis"
+  - [learn-you-a-haskell](https://github.com/GuidoBR/learning-haskell/tree/master/learn-you-a-haskell): Exercícios e exemplos do livro "Learn Yourself a Haskell For the Great Good"
+  - [speeding-through-haskell](https://github.com/GuidoBR/learning-haskell/tree/master/speeding-through-haskell): Exercícios e exemplos do livro "Speeding through Haskell"
+  - [haskell-specs](https://github.com/GuidoBR/learning-haskell/tree/master/haskell-specs): Código fonte das bibliotecas padrões do Haskell
